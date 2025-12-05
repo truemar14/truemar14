@@ -30,17 +30,3 @@ I'm a Full Stack Software Developer based in Kazanlak, Bulgaria 🇧🇬, with a
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- 
- <br/>
-
-## 🔥My Stats:
-
-![marians1d's Stats](https://github-readme-stats.vercel.app/api?username=marians1d&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![marians1d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marians1d&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-
-<!---
-marians1d/marians1d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
