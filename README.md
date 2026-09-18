@@ -12,7 +12,6 @@ Software developer based in Kazanlak, Bulgaria 🇧🇬
 ## ⚡ Fun facts
 
 - ⌨️ I type on a 42 key Corne split keyboard with a layout I wrote myself
-- 🎧 I often read by listening
 - 🏔️ The best ideas show up on a hiking trail
 - 🧘 My favorite feature is the one I did not have to build
 
